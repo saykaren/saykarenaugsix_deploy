@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/saykarenaugsix/static/css/main.8cf572a4.chunk.css",
+    "main.js": "/saykarenaugsix/static/js/main.53cec095.chunk.js",
+    "main.js.map": "/saykarenaugsix/static/js/main.53cec095.chunk.js.map",
+    "runtime~main.js": "/saykarenaugsix/static/js/runtime~main.c7ffdcd4.js",
+    "runtime~main.js.map": "/saykarenaugsix/static/js/runtime~main.c7ffdcd4.js.map",
+    "static/js/2.2deff083.chunk.js": "/saykarenaugsix/static/js/2.2deff083.chunk.js",
+    "static/js/2.2deff083.chunk.js.map": "/saykarenaugsix/static/js/2.2deff083.chunk.js.map",
+    "index.html": "/saykarenaugsix/index.html",
+    "precache-manifest.85b941b620850f3e5ce759fa9d727bb9.js": "/saykarenaugsix/precache-manifest.85b941b620850f3e5ce759fa9d727bb9.js",
+    "service-worker.js": "/saykarenaugsix/service-worker.js",
+    "static/css/main.8cf572a4.chunk.css.map": "/saykarenaugsix/static/css/main.8cf572a4.chunk.css.map",
+    "static/media/Bomdigity.gif": "/saykarenaugsix/static/media/Bomdigity.7a737d02.gif",
+    "static/media/Karen_freeCodeCamp_Certificate_Responsive_Web_Design_2.13.2019.png": "/saykarenaugsix/static/media/Karen_freeCodeCamp_Certificate_Responsive_Web_Design_2.13.2019.2099b483.png",
+    "static/media/Number_Guesser.gif": "/saykarenaugsix/static/media/Number_Guesser.7f28071e.gif",
+    "static/media/React_Website_ES6_8.1.2019.png": "/saykarenaugsix/static/media/React_Website_ES6_8.1.2019.56952159.png",
+    "static/media/checkwritting.png": "/saykarenaugsix/static/media/checkwritting.230b6c8b.png",
+    "static/media/flashcard-starter.gif": "/saykarenaugsix/static/media/flashcard-starter.bd82fb9a.gif",
+    "static/media/karenHero.jpg": "/saykarenaugsix/static/media/karenHero.f00add6d.jpg",
+    "static/media/sayKaren_Logo_transparent_7.2019.png": "/saykarenaugsix/static/media/sayKaren_Logo_transparent_7.2019.4ee98378.png",
+    "static/media/sayKaren_logo-white_8.1.2019.png": "/saykarenaugsix/static/media/sayKaren_logo-white_8.1.2019.d0827d01.png"
+  }
+}
