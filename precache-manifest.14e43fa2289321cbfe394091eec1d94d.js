@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d1e88e0c26902238e35c2ffe81be3b7",
+    "revision": "5a4a8321cc599d338b0c1df5aa40f577",
     "url": "/saykarenaugsix_deploy/index.html"
   },
   {
-    "revision": "54117c2db59ab8a4792c",
+    "revision": "7cc989e5d12043f03fb0",
     "url": "/saykarenaugsix_deploy/static/css/main.ba73db83.chunk.css"
   },
   {
-    "revision": "e936a9701c3371901c06",
-    "url": "/saykarenaugsix_deploy/static/js/2.23a11aee.chunk.js"
+    "revision": "c3b649157f82aecd9b44",
+    "url": "/saykarenaugsix_deploy/static/js/2.61a1d8ab.chunk.js"
   },
   {
-    "revision": "54117c2db59ab8a4792c",
-    "url": "/saykarenaugsix_deploy/static/js/main.81164728.chunk.js"
+    "revision": "7cc989e5d12043f03fb0",
+    "url": "/saykarenaugsix_deploy/static/js/main.cf0e74a3.chunk.js"
   },
   {
     "revision": "7ec177ec9ee874966513",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7a737d02eb03b76e030334a473132d90",
     "url": "/saykarenaugsix_deploy/static/media/Bomdigity.7a737d02.gif"
+  },
+  {
+    "revision": "0a0c9e0c9f1d7626a0fe6ccc5de0b2d4",
+    "url": "/saykarenaugsix_deploy/static/media/GitFitter.0a0c9e0c.gif"
   },
   {
     "revision": "2099b4832a54e318deaaa2908f793138",
