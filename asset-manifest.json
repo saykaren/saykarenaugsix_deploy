@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/saykarenaugsix_deploy/static/css/main.75796ca9.chunk.css",
-    "main.js": "/saykarenaugsix_deploy/static/js/main.6d962bf9.chunk.js",
-    "main.js.map": "/saykarenaugsix_deploy/static/js/main.6d962bf9.chunk.js.map",
+    "main.js": "/saykarenaugsix_deploy/static/js/main.44462081.chunk.js",
+    "main.js.map": "/saykarenaugsix_deploy/static/js/main.44462081.chunk.js.map",
     "runtime~main.js": "/saykarenaugsix_deploy/static/js/runtime~main.709ae8d6.js",
     "runtime~main.js.map": "/saykarenaugsix_deploy/static/js/runtime~main.709ae8d6.js.map",
     "static/js/2.f501e40a.chunk.js": "/saykarenaugsix_deploy/static/js/2.f501e40a.chunk.js",
     "static/js/2.f501e40a.chunk.js.map": "/saykarenaugsix_deploy/static/js/2.f501e40a.chunk.js.map",
     "index.html": "/saykarenaugsix_deploy/index.html",
-    "precache-manifest.b188a79e030dc4048a86f0b80df8028e.js": "/saykarenaugsix_deploy/precache-manifest.b188a79e030dc4048a86f0b80df8028e.js",
+    "precache-manifest.c7b3805f0c5d365d29dba425acc34699.js": "/saykarenaugsix_deploy/precache-manifest.c7b3805f0c5d365d29dba425acc34699.js",
     "service-worker.js": "/saykarenaugsix_deploy/service-worker.js",
     "static/css/main.75796ca9.chunk.css.map": "/saykarenaugsix_deploy/static/css/main.75796ca9.chunk.css.map",
     "static/media/Bomdigity.gif": "/saykarenaugsix_deploy/static/media/Bomdigity.7a737d02.gif",
